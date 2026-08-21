@@ -1,4 +1,4 @@
-# Coffee Shop Agent — Cloud Run + ADK
+# Coffee Shop Agent [Cloud Run + ADK]
 
 An AI business analyst agent for a coffee shop, built with Google's Agent Development Kit (ADK) and deployed on Cloud Run with sandbox execution.
 
